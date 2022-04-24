@@ -37,6 +37,8 @@ import {
   underscoreToPascal,
 } from 'name-transform'
 
+// or const { camelToHyphen, ... } = require('name-transform')
+
 camelToUnderscore('helloWorld')     // =>'hello_world'
 camelToPascal('helloWorld')         // =>'HelloWorld'
 camelToHyphen('helloWorld')         // =>'hello-world'
