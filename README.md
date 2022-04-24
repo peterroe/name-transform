@@ -14,6 +14,10 @@ A tiny library for transforming names.
 
 ## Usage
 
+```shell
+npm install name-transform
+```
+
 ```js
 /*
   camel       -->  'helloWorld'
