@@ -1,7 +1,7 @@
 {
   "name": "name-transform",
   "version": "1.3.0",
-  "packageManager": "pnpm@6.32.8",
+  "packageManager": "pnpm@6.32.9",
   "description": "typescript-template",
   "keywords": ["typescript", "template"],
   "license": "MIT",
