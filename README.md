@@ -10,7 +10,7 @@ A tiny library for transforming names.
 
 * Tiny size
 * `Typescript` support
-* `umd` and `cjs`
+* `umd` and `esm`
 
 ## Usage
 
